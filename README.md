@@ -57,4 +57,4 @@ GitHub • Docker • CMake • Colcon
 ## 📫 Connect
 
 - GitHub: https://github.com/shrirajchavan002-pixel
-- LinkedIn: *(Add your LinkedIn profile URL here)*
+- LinkedIn: https://www.linkedin.com/in/shrirajchavan002/
