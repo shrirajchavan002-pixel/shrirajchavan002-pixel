@@ -123,43 +123,6 @@ Developing intelligent robotic systems using ROS2, AI, simulation, perception, a
 ✅ Learn Advanced Robotics Software Engineering
 
 ---
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shrirajchavan002-pixel&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=shrirajchavan002-pixel&theme=github-dark-blue&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrirajchavan002-pixel&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-# 💻 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrirajchavan002-pixel&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shrirajchavan002-pixel&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
-
-</p>
-
----
 
 # 📈 Contribution Graph
 
