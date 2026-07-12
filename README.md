@@ -2,6 +2,11 @@
   <img src="profile-banner.png" alt="Shriraj Chavan Banner" width="100%">
 </p>
 
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=shrirajchavan002-pixel&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
 <h1 align="center">Hi 👋, I'm Shriraj Chavan</h1>
 
 <h3 align="center">
@@ -118,14 +123,19 @@ Developing intelligent robotic systems using ROS2, AI, simulation, perception, a
 ✅ Learn Advanced Robotics Software Engineering
 
 ---
-
 # 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shrirajchavan002-pixel&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shrirajchavan002-pixel&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=shrirajchavan002-pixel&theme=github-dark-blue&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=shrirajchavan002-pixel&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrirajchavan002-pixel&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -141,7 +151,7 @@ Developing intelligent robotic systems using ROS2, AI, simulation, perception, a
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <p align="center">
 
