@@ -5,101 +5,176 @@
 <h1 align="center">Hi 👋, I'm Shriraj Chavan</h1>
 
 <h3 align="center">
-Robotics & Automation Engineering Student | ROS2 Developer | Open Source Contributor
+Robotics & Automation Engineering Student • ROS2 Developer • Open Source Contributor
 </h3>
 
 <p align="center">
 Building intelligent robotics software with ROS2, AI, and Automation.
 </p>
 
+<p align="center">
+<a href="https://github.com/shrirajchavan002-pixel">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
 ---
 
 # 🚀 About Me
 
-Welcome to my GitHub profile!
+I'm a Robotics & Automation Engineering student passionate about developing intelligent robotics software and open-source tools.
 
-I'm a Robotics & Automation Engineering student passionate about developing intelligent robotics software and open-source tools. I enjoy building real-world robotics solutions using ROS2, Computer Vision, Artificial Intelligence, and Automation.
+My interests lie in **ROS2**, **Artificial Intelligence**, **Computer Vision**, **Autonomous Robotics**, and **Automation Systems**.
 
-I believe robotics becomes more powerful when software is reliable, reusable, and accessible to every developer. That's why I focus on creating projects that not only solve problems but also help others learn and build faster.
+I enjoy building practical tools that simplify robotics development while continuously learning modern robotics software engineering.
 
 ---
 
-# 🛠️ Skills & Technologies
+# 🛠 Tech Stack
 
 ### 🤖 Robotics
-- ROS2 (Jazzy)
+
+- ROS2
 - Gazebo
 - RViz2
 - OpenCV
 - Computer Vision
-- Robotics Software Development
 
 ### 💻 Programming
+
 - Python
 - C++
 - Linux
-- Git & GitHub
+- Git
+- GitHub
 - CMake
 - Colcon
 
 ### 🧠 AI & Automation
+
 - Artificial Intelligence
-- Large Language Models (LLMs)
 - YOLO
-- Automation Systems
-- AI-powered Robotics
+- Large Language Models (LLMs)
+- Robotics Automation
 
 ---
 
-# 🚀 Featured Projects
+# 🌟 Featured Projects
 
 ## 🩺 ROS2 AI Doctor
+
 An AI-powered debugging assistant for ROS2 developers that combines workspace analysis with evidence-based AI diagnosis to generate reliable recovery commands.
 
+🔗 Repository:
+https://github.com/shrirajchavan002-pixel/ROS2-AI-Doctor
+
+---
+
 ## 🎯 Color Tracking Robot
-A ROS2 + OpenCV project that performs real-time object detection and color tracking using computer vision.
+
+Real-time object tracking using ROS2 and OpenCV.
+
+---
 
 ## 🌱 Agrinova
-An AI-powered smart agriculture system designed to assist crop monitoring and intelligent farming applications.
 
-## 🤖 Autonomous Robotics Projects
-Developing autonomous robotic systems using ROS2, simulation, perception, and automation technologies.
+AI-powered smart agriculture system for intelligent crop monitoring.
+
+---
+
+## 🤖 Autonomous Robotics
+
+Building intelligent robotic systems using ROS2, perception, and automation.
 
 ---
 
 # 🌱 Currently Learning
 
-- Advanced ROS2 Development
-- Autonomous Mobile Robots
+- Advanced ROS2
 - Robot Navigation
 - Motion Planning
+- Autonomous Mobile Robots
 - AI for Robotics
 - Open Source Development
 
 ---
 
-# 🎯 My Mission
+# 🎯 Current Goals
 
-To build intelligent robotics software that simplifies robotics development and contributes to the global open-source robotics community.
+✅ Contribute to Open Source Robotics
 
----
+✅ Build Production-Ready ROS2 Applications
 
-# 📈 Current Focus
+✅ Publish Robotics Developer Tools
 
-- 🤖 ROS2 Development
-- 🧠 AI for Robotics
-- 💻 Open Source Projects
-- 📷 Computer Vision
-- 🚀 Robotics Automation
+✅ Learn Advanced Robotics Software Engineering
 
 ---
 
-# 📫 Let's Connect
+# 📊 GitHub Statistics
 
-If you're interested in Robotics, ROS2, Artificial Intelligence, or Open Source Development, feel free to connect, collaborate, or explore my repositories.
+<p align="center">
 
-⭐ Don't forget to check out my featured projects!
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shrirajchavan002-pixel&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=shrirajchavan002-pixel&theme=github-dark-blue&hide_border=true"/>
+
+</p>
 
 ---
 
-> **"Building intelligent robotics software, one project at a time."** 🚀
+# 💻 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrirajchavan002-pixel&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shrirajchavan002-pixel&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shrirajchavan002-pixel&theme=github-compact"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+💼 LinkedIn:
+https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME
+
+💻 GitHub:
+https://github.com/shrirajchavan002-pixel
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile!
+
+<b>Building intelligent robotics software, one project at a time.</b> 🚀
+
+</p>
