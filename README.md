@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="profile-banner.png" width="100%" alt="Shriraj Chavan Banner">
+</p>
 
 <!--
 **shrirajchavan002-pixel/shrirajchavan002-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
