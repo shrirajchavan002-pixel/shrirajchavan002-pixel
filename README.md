@@ -66,37 +66,35 @@ I enjoy building practical tools that simplify robotics development while contin
 - Robotics Automation
 
 ---
-
 # 🌟 Featured Projects
 
 ## 🩺 ROS2 AI Doctor
 
 An AI-powered debugging assistant for ROS2 developers that combines workspace analysis with evidence-based AI diagnosis to generate reliable recovery commands.
 
-🔗 Repository:
+🔗 **Repository:**  
 https://github.com/shrirajchavan002-pixel/ROS2-AI-Doctor
 
 ---
 
 ## 🎯 Color Tracking Robot
 
-Real-time object tracking using ROS2 and OpenCV.
+A ROS2-based real-time color tracking system that leverages OpenCV for object detection and tracking. The project demonstrates image processing, robotic perception, and ROS2 communication for autonomous vision applications.
 
-🔗 Repository:
+🔗 **Repository:**  
 https://github.com/shrirajchavan002-pixel/Color-tracking-ros2
+
 ---
 
 ## 🌱 Agrinova
 
-AI-powered smart agriculture system for intelligent crop monitoring.
+An AI-powered smart agriculture platform focused on crop monitoring, pest detection, and intelligent farming solutions using computer vision and automation.
 
 ---
 
-## 🤖 Autonomous Robotics
+## 🤖 Autonomous Robotics Projects
 
-Building intelligent robotic systems using ROS2, perception, and automation.
-
----
+Developing intelligent robotic systems using ROS2, AI, simulation, perception, and autonomous navigation technologies.
 
 # 🌱 Currently Learning
 
