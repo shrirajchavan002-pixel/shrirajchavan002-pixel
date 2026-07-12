@@ -82,6 +82,7 @@ https://github.com/shrirajchavan002-pixel/ROS2-AI-Doctor
 
 Real-time object tracking using ROS2 and OpenCV.
 
+🔗 Repository:https://github.com/shrirajchavan002-pixel/Color-tracking-ros2
 ---
 
 ## 🌱 Agrinova
@@ -164,7 +165,7 @@ Building intelligent robotic systems using ROS2, perception, and automation.
 # 📫 Connect With Me
 
 💼 LinkedIn:
-https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME
+https://www.linkedin.com/in/shrirajchavan002/
 
 💻 GitHub:
 https://github.com/shrirajchavan002-pixel
